@@ -3,8 +3,8 @@
 A classic arcade-style Space Invaders game developed in C++. Defend your territory against incoming waves of alien invaders!
 
 ## 👥 Authors
-- **24L-0576**
-- **24L-0852**
+- **24L-0576 Abdullah Omar **
+- **24L-0852 Saud Azhar **
 
 ---
 
